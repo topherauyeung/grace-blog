@@ -59,6 +59,6 @@ label.overlay {
 
 label.overlay:hover, label.overlay:active {  line-height: 120%;  color: darkgrey; }
 label.overlay:active {  line-height: 130%; }
-label {  line-height: 120%;  color: #5679a1; } 
+label {  line-height: 120%;  color: #10b2b4; } 
 label:hover {  color: orangered; }
 label:active {  line-height: 90%;  color: orange; }

@@ -10,7 +10,7 @@ body {
   color: #32383B; }
 
 a {
-  color: #62a2c9;
+  color: #10b2b4;
   text-decoration: none; }
 
 a:hover {
@@ -78,17 +78,16 @@ a:hover {
 .page-header {
   color: #fff;
   text-align: center;
-  background: #56687C url('../img/cover.jpg') no-repeat 50%;
-  background-size: cover;
+  background: #ffffff;
 }
 
 @media screen and (min-width: 64em) {
   .page-header {
-    padding: 5rem 6rem; } }
+    padding: 2rem 6rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
-    padding: 3rem 4rem; } }
+    padding: 2rem 4rem; } }
 
 @media screen and (max-width: 42em) {
   .page-header {
@@ -99,13 +98,13 @@ a:hover {
   margin-bottom: 0.1rem; }
 
 .header-link  {
-    color: rgba(255, 255, 255, 0.9);
+    color: rgba(0, 0, 0, 0.9);
     text-decoration: none;
     transition: 0.4s;
 }
 
 .header-link:hover {
-    text-shadow: 0 0 8px rgba(255, 255, 255, 0.7);
+    text-shadow: 0 0 8px rgba(0, 0, 0, 0.15);
     transition: 0.3s;
     text-decoration: none;
 }
@@ -147,7 +146,7 @@ a:hover {
   margin-top: 2rem;
   margin-bottom: 1rem;
   font-weight: normal;
-  color: #5F7585;
+  color: #10b2b4;
 }
 .main-content p {
   margin-bottom: 1em; }
