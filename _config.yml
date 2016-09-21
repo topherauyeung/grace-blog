@@ -8,9 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: ''
-baseurl: ''
-url: ''
+description: 
+baseurl: 
+url: 
 twitter_username: twitter_username
 markdown: kramdown
 permalink: "/:title/"
