@@ -1,8 +1,8 @@
 ---
-layout: post
 title: With nice formatting too...
+date: 2016-01-14 00:00:00 Z
+layout: post
 ---
-
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
