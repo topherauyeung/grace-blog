@@ -1,5 +1,5 @@
 ---
-title: Your Blog Title
+title: Grace E. Lee - Blog
 timezone: UTC
 collections:
   posts:
@@ -11,7 +11,7 @@ collections:
 description: 
 baseurl: 
 url: 
-twitter_username: twitter_username
+twitter_username: gleeit
 markdown: kramdown
 permalink: "/:title/"
 gems:
