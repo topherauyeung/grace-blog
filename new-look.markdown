@@ -3,6 +3,10 @@ title: New Look.
 date: 2016-09-22 10:41:00 -07:00
 ---
 
-Hi world! I'm sure you haven't noticed but my page was down for a week or two. But thanks to C and his amazing creative skills, it is now up and running with a fresh, new look! Thanks so much, C!! :)
+Hi world! I am sure you haven't noticed but my page was down for a week or two. But thanks to C and his amazing creative skills, it is now up and running with a fresh, new look! Thanks so much, C!! :)
 
-Today is the first day of Fall. I'm convinced everyone is thinking this and I'll write it here: this year has flown by! Nevertheless, I really do enjoy this season- the leaves turn red and orange, the hills in Fremont turn lime green, and the air feels brisk on my cheeks and in my lungs. I also get to eat persimmons and pomegranates very soon. And bake yams and eat all the pumpkin cookies and pies. 
+Today is the first day of Fall. This year has flown by, hasn't? Nevertheless, I really do enjoy this season- the leaves turn red and orange, the hills in Fremont turn lime green, and the air feels brisk on my cheeks and in my lungs. I also get to eat persimmons and pomegranates very soon. And bake yams and eat all the pumpkin cookies and pies. I feel excited thinking about this.
+
+Another highlight- next week marks my one year at Salesforce! Yes, I have been at this company for about a year and am still here! I know a topic of conversation is counting the number of companies I have been at. No shame.
+
+San Francisco summer is finally here and it is nice to have the sun out! I am not even wearing a jacket today; just a vest. M and I are heading to SoCal this weekend for the second to last wedding we will be attending this year. It is going to be in the 90s and I am definitely bringing my sun hat. Long sleeves may be a bit egregious.
