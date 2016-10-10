@@ -1,6 +1,7 @@
 ---
 title: New Look.
 date: 2016-09-22 11:22:00 -07:00
+layout: default
 ---
 
 Hi world! I am sure you haven't noticed but my page was down for a week or two. But thanks to C and his amazing creative skills, it is now up and running with a fresh, new look! Thanks so much, C!! :)
