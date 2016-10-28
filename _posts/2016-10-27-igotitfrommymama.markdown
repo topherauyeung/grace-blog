@@ -13,8 +13,10 @@ We definitely took advantage of the shaved ice and poke selection on the island.
 And then it hit me hard. I turn to M with the most apologetic eyes and say, "Namj. I am so sorry! I will never ask you to share your food with me ever again!" For all the times we go out and I am being stingy and conscious of my food intake, I always ask him if we could share something or if I could have "just one bite" of what he's ordering. But come on! We all know how this story ends- I end up eating more than "just one bite" and I should have ordered my own plate from the beginning. We would have both been happier. And it clicked- I got it from my mama.
 By the end of the trip I told my mom she had to get her own food and it made looking forward to the next meal much more enjoyable. 
 Don't worry, I still love her dearly, and I will probably share food with her again the next trip I see her.
+
 Here is a picture of my first and only personal bowl of shaved ice on the island.
 ![IMG_2800.jpg](/uploads/IMG_2800.jpg)
 It was delicious. 
+
 Here is a picture of the four of us I should probably put in a picture frame one day.
 ![IMG_2524.jpg](/uploads/IMG_2524.jpg)
