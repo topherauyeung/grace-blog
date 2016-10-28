@@ -1,6 +1,7 @@
 ---
 title: I Got It From My Mama.
 date: 2016-10-27 20:33:00 -07:00
+published: false
 layout: post
 ---
 
